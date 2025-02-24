@@ -85,3 +85,12 @@ Importance Of Interacting with AI models :
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+A Vague Prompt Example: "Tell me about technology."
+
+Improved Prompt: "Explain how artificial intelligence is transforming the entertainment industry, with examples of its applications in improving entertainment."
+
+Importance of better prompt:
+- More Specific: Rather of covering a wide range of subjects like "technology," it concentrates on AI in healthcare.
+- Clear Intent: Rather of requesting an open-ended conversation, it requests an explanation.
+- Defined Scope: It eliminates superfluous details and focusses only on diagnosis and therapy.
