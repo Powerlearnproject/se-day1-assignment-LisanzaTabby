@@ -56,8 +56,9 @@ What are some common challenges faced by software engineers? Provide strategies 
 - Changing Requirements: As the project progresses, requirements may alter, causing scope creep and delays.
 - Tight Deadlines: Rushing development and sacrificing quality might be the result of pressure to produce software solutions on time.
 - Technical debt, which can hinder future development efforts and raise maintenance costs, is accumulated by short cuts or less-than-ideal solutions.
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 - Unit testing is the process of testing separate software units or components.
       -> It guarantees that every unit, separate from other components, carries out its intended function as intended.
 - Testing how various parts or subsystems interact with one another is known as integration testing.
